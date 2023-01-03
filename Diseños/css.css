@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+}
+body {
+    height: 100%;
+    background-color: orangered;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+.pla1{
+    float: left;
+    width: 50%;
+    height: 100vh;
+    
+}
+
+.botoncito{
+    position: relative;
+    width: 60%;
+    height: 40%;
+    top: 50%;
+}
